@@ -1,0 +1,28 @@
+{
+    "name": "quorra_demo",
+    "version": "0.0.0",
+    "description": "My QuorraJS Application",
+    "scripts": {
+        "start": "quorra ride",
+        "test": "mocha --opts app/tests/mocha.opts"
+    },
+    "dependencies": {
+        "jsonwebtoken": "^8.5.0",
+        "node-fetch": "^2.3.0",
+        "consolidate": "~0.14.1",
+        "jade": "~1.9.2",
+        "positron": "1.1.0",
+        "sails-mongo": "^0.12.3",
+        "sails-disk": "~0.10.7",
+        "@hapi/joi": "15.1.0"
+    },
+    "devDependencies": {
+        "@positron/elixir": "^0.0.1",
+        "gulp": "~3.9.1",
+        "laravel-elixir": "~6.0.0-9",
+        "mocha": "^2.5.3",
+        "nodemailer-stub-transport": "^1.0.0",
+        "should": "^8.4.0",
+        "supertest": "^1.2.0"
+    }
+}
