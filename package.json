@@ -14,7 +14,7 @@
         "positron": "1.1.0",
         "sails-mongo": "^0.12.3",
         "sails-disk": "~0.10.7",
-        "@hapi/joi": "15.1.0"
+        "@hapi/joi": "15.1.1"
     },
     "devDependencies": {
         "@positron/elixir": "^0.0.1",
