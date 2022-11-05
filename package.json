@@ -18,9 +18,9 @@
     },
     "devDependencies": {
         "@positron/elixir": "^0.0.1",
-        "gulp": "~3.9.1",
+        "gulp": "~4.0.2",
         "laravel-elixir": "~6.0.0-9",
-        "mocha": "^2.5.3",
+        "mocha": "^10.1.0",
         "nodemailer-stub-transport": "^1.0.0",
         "should": "^8.4.0",
         "supertest": "^1.2.0"
